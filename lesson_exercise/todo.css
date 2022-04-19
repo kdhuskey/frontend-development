@@ -1,0 +1,35 @@
+
+body{
+    background-color: rgb(26, 100, 139)
+}
+h1{
+    font-size: 75px;
+    text-align: center;
+    color: rgb(239, 225, 209);
+    text-decoration: underline;
+    text-decoration-color: fuchsia;
+    
+}
+.list {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    list-style-type: none;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(149, 181, 209);
+    color: rgb(239, 225, 209);
+    margin-left: 400px;
+    margin-right: 400px;
+    border-color: black;
+    border: black;
+    
+    
+    
+    
+
+}
+.ul{
+    margin-top: 50px;
+    border-radius: 50%;
+}

@@ -1,0 +1,58 @@
+
+.header{
+    text-align: center;
+    text-decoration: underline;
+    color: turquoise;
+}
+body{
+    background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/131442/90swallpaper.jpg"); 
+    
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.oahu{
+    margin-left: 520px;
+    margin-bottom: -20px;
+    border-radius: 50%;
+}
+
+.maui{
+    margin-left: 200px;
+    margin-right: 900px;
+    margin-top: 40px;
+    
+}
+.recap{
+margin-left: 525px;
+margin-top: -200px;
+
+}
+.info{
+margin-left: 900px;
+margin-top: -180px;
+}
+
+.hawaii{
+    
+    margin-left: 555px;
+    margin-bottom: 230px;
+}
+
+.circle{
+    
+    background-size:contain;
+}
+.test{
+    font-size: 50px;
+}
+.punch{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hai{
+    display: block;
+    margin-left: auto;
+    margin-right: 500px;
+}
