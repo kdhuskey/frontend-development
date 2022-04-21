@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+ 
+}
+body{
+    margin:0;
+    font-family: 'Montserrat', sans-serif;
+    background-color:rgb(255 218 213);
+}
+header{
+    
+    font-family: 'Montserrat', sans-serif;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(132, 135, 237 );
+    box-shadow: 0 2px  5px rgb(132, 135, 234);
+    align-items: center;
+    padding: 8px 0px;
+}
+
+.logo{
+    display: flex;
+    font-family: 'Montserrat';
+    color: rgb(66, 70, 229);
+    font-size: 25px;
+    margin: 20px 0px 20px 80px;
+    font-weight: 600;
+}
+
+
+.primary-nav{
+    display: flex;
+    align-items: center;
+    
+}
+.links{
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    align-items: center;
+
+}
+.links a{
+    text-decoration: none;
+    color: rgba(40 44 131 / 70%);
+    font-weight: 600;
+}
+
+.small-button{
+    display: flex;
+    margin: 5px 40px 0px 20px;
+    align-items: center;
+}
+.links li{
+    margin: 0 20px;
+    
+}
+.content{
+    display: flex;
+    max-width: 1000px;
+    margin: 100px auto;
+    align-items: center;
+}
+
+.content-text{}
+
+.title{
+    font-size: 70px;
+    line-height: 1.1em;
+    color: rgb(40, 44, 131);
+    font-weight: bold;
+    margin: 0 0 20px;
+
+}
+span{
+color: rgb(105 185 165)
+}
+.sign-up{
+    display: flex;
+    
+}
+.sign-up img{
+    display: block;
+}
+
+.field-group{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid rgb(40, 44, 131);
+    padding: 4px;
+    border-right: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    justify-content: center;
+    padding-right: 150px;
+    padding-left: 10px;
+}
+
+.content-image{
+    width: 40%;
+    margin-left: 40px;;
+}
+
+.copy{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(40 44 131);
+    max-width: 380px;
+    line-height: 1.4em;
+
+}
+button{
+    padding: 0;
+    margin: 0;
+    border: none;
+    display: block;
+    background-color: transparent;
+    
+}
+.field-group label{
+    font-size: 12px;
+    font-weight: 600;
+    color: rgb(66 70 229);
+    padding-bottom: 3px;
+    
+}
+#email{
+    border: none;
+}
+
+
